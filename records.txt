@@ -1,0 +1,10 @@
+/*
+-- Query: SELECT * FROM schooldatabase.student
+LIMIT 0, 1000
+
+-- Date: 2018-02-26 20:13
+*/
+INSERT INTO `student` (`studentID`,`studentName`,`grade`,`special`) VALUES (1,'Steve Johnson','7','yes');
+INSERT INTO `student` (`studentID`,`studentName`,`grade`,`special`) VALUES (3,'John Johnson','9','yes');
+INSERT INTO `student` (`studentID`,`studentName`,`grade`,`special`) VALUES (5,'Billie Blanks','7','yes');
+INSERT INTO `student` (`studentID`,`studentName`,`grade`,`special`) VALUES (6,'Larry Hall','6','no');
